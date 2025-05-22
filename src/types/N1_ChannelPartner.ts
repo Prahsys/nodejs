@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { phoneNumberSchema } from "./shared.js";
+import { phoneNumberSchema } from "./shared";
 
 export const ChannelPartnerOrganizationTypeEnum = z.enum(["CHANNEL_PARTNER"]);
 

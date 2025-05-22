@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { phoneNumberSchema } from "./shared.js";
+import { phoneNumberSchema } from "./shared";
 
 export const N1UserSchema = z.object({
   id: z.string().nonempty("User Id is required."),

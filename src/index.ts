@@ -1,1 +1,1 @@
-export * from "./prahsys.js";
+export * from "./prahsys";

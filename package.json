@@ -1,7 +1,6 @@
 {
   "name": "@prahsys/nodejs",
   "version": "0.0.1",
-  "type": "module",
   "description": "Prahsys payment nodejs",
   "engines": {
     "node": ">=14"
